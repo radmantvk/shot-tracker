@@ -1,0 +1,148 @@
+{"sessions": [
+    {
+        "name": "Session 1",
+        "locations": [
+            {
+                "madeShots": 0,
+                "name": "Free Throw",
+                "listOfShots": {},
+                "shots": 0
+            },
+            {
+                "madeShots": 0,
+                "name": "Paint",
+                "listOfShots": {},
+                "shots": 0
+            },
+            {
+                "madeShots": 0,
+                "name": "Right Low Post",
+                "listOfShots": {},
+                "shots": 0
+            },
+            {
+                "madeShots": 1,
+                "name": "Left Low Post",
+                "listOfShots": {"0": true},
+                "shots": 1
+            },
+            {
+                "madeShots": 0,
+                "name": "Right Elbow",
+                "listOfShots": {},
+                "shots": 0
+            },
+            {
+                "madeShots": 1,
+                "name": "Left Elbow",
+                "listOfShots": {"0": true},
+                "shots": 1
+            },
+            {
+                "madeShots": 0,
+                "name": "Right Corner 3",
+                "listOfShots": {},
+                "shots": 0
+            },
+            {
+                "madeShots": 0,
+                "name": "Right Wing 3",
+                "listOfShots": {},
+                "shots": 0
+            },
+            {
+                "madeShots": 0,
+                "name": "Centre 3",
+                "listOfShots": {},
+                "shots": 0
+            },
+            {
+                "madeShots": 0,
+                "name": "Left Wing 3",
+                "listOfShots": {},
+                "shots": 0
+            },
+            {
+                "madeShots": 0,
+                "name": "Left Corner 3",
+                "listOfShots": {},
+                "shots": 0
+            }
+        ]
+    },
+    {
+        "name": "Session 2",
+        "locations": [
+            {
+                "madeShots": 0,
+                "name": "Free Throw",
+                "listOfShots": {},
+                "shots": 0
+            },
+            {
+                "madeShots": 0,
+                "name": "Paint",
+                "listOfShots": {},
+                "shots": 0
+            },
+            {
+                "madeShots": 0,
+                "name": "Right Low Post",
+                "listOfShots": {},
+                "shots": 0
+            },
+            {
+                "madeShots": 0,
+                "name": "Left Low Post",
+                "listOfShots": {},
+                "shots": 0
+            },
+            {
+                "madeShots": 0,
+                "name": "Right Elbow",
+                "listOfShots": {},
+                "shots": 0
+            },
+            {
+                "madeShots": 0,
+                "name": "Left Elbow",
+                "listOfShots": {},
+                "shots": 0
+            },
+            {
+                "madeShots": 0,
+                "name": "Right Corner 3",
+                "listOfShots": {},
+                "shots": 0
+            },
+            {
+                "madeShots": 0,
+                "name": "Right Wing 3",
+                "listOfShots": {},
+                "shots": 0
+            },
+            {
+                "madeShots": 0,
+                "name": "Centre 3",
+                "listOfShots": {},
+                "shots": 0
+            },
+            {
+                "madeShots": 3,
+                "name": "Left Wing 3",
+                "listOfShots": {
+                    "0": true,
+                    "1": true,
+                    "2": true
+                },
+                "shots": 3
+            },
+            {
+                "madeShots": 0,
+                "name": "Left Corner 3",
+                "listOfShots": {},
+                "shots": 0
+            }
+        ]
+    }
+]}

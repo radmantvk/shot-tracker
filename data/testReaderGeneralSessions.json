@@ -1,0 +1,226 @@
+{"sessions": [
+    {
+        "name": "Test Session0",
+        "locations": [
+            {
+                "madeShots": 0,
+                "name": "Free Throw",
+                "listOfShots": {
+                    "0": true,
+                    "1": false,
+                    "2": true,
+                    "3": false,
+                    "4": true,
+                    "5": false,
+                    "6": true,
+                    "7": false,
+                    "8": true,
+                    "9": false
+                },
+                "shots": 0
+            },
+            {
+                "madeShots": 0,
+                "name": "Paint",
+                "listOfShots": {},
+                "shots": 0
+            },
+            {
+                "madeShots": 0,
+                "name": "Right Low Post",
+                "listOfShots": {},
+                "shots": 0
+            },
+            {
+                "madeShots": 0,
+                "name": "Left Low Post",
+                "listOfShots": {},
+                "shots": 0
+            },
+            {
+                "madeShots": 0,
+                "name": "Right Elbow",
+                "listOfShots": {},
+                "shots": 0
+            },
+            {
+                "madeShots": 0,
+                "name": "Left Elbow",
+                "listOfShots": {},
+                "shots": 0
+            },
+            {
+                "madeShots": 0,
+                "name": "Right Corner 3",
+                "listOfShots": {},
+                "shots": 0
+            },
+            {
+                "madeShots": 0,
+                "name": "Right Wing 3",
+                "listOfShots": {},
+                "shots": 0
+            },
+            {
+                "madeShots": 0,
+                "name": "Centre 3",
+                "listOfShots": {},
+                "shots": 0
+            },
+            {
+                "madeShots": 0,
+                "name": "Left Wing 3",
+                "listOfShots": {},
+                "shots": 0
+            },
+            {
+                "madeShots": 0,
+                "name": "Left Corner 3",
+                "listOfShots": {},
+                "shots": 0
+            }
+        ]
+    },
+    {
+        "name": "Test Session1",
+        "locations": [
+            {
+                "madeShots": 0,
+                "name": "Free Throw",
+                "listOfShots": {},
+                "shots": 0
+            },
+            {
+                "madeShots": 0,
+                "name": "Paint",
+                "listOfShots": {},
+                "shots": 0
+            },
+            {
+                "madeShots": 0,
+                "name": "Right Low Post",
+                "listOfShots": {},
+                "shots": 0
+            },
+            {
+                "madeShots": 0,
+                "name": "Left Low Post",
+                "listOfShots": {},
+                "shots": 0
+            },
+            {
+                "madeShots": 0,
+                "name": "Right Elbow",
+                "listOfShots": {},
+                "shots": 0
+            },
+            {
+                "madeShots": 0,
+                "name": "Left Elbow",
+                "listOfShots": {},
+                "shots": 0
+            },
+            {
+                "madeShots": 0,
+                "name": "Right Corner 3",
+                "listOfShots": {},
+                "shots": 0
+            },
+            {
+                "madeShots": 0,
+                "name": "Right Wing 3",
+                "listOfShots": {},
+                "shots": 0
+            },
+            {
+                "madeShots": 0,
+                "name": "Centre 3",
+                "listOfShots": {},
+                "shots": 0
+            },
+            {
+                "madeShots": 0,
+                "name": "Left Wing 3",
+                "listOfShots": {},
+                "shots": 0
+            },
+            {
+                "madeShots": 0,
+                "name": "Left Corner 3",
+                "listOfShots": {},
+                "shots": 0
+            }
+        ]
+    },
+    {
+        "name": "Test Session2",
+        "locations": [
+            {
+                "madeShots": 0,
+                "name": "Free Throw",
+                "listOfShots": {},
+                "shots": 0
+            },
+            {
+                "madeShots": 0,
+                "name": "Paint",
+                "listOfShots": {},
+                "shots": 0
+            },
+            {
+                "madeShots": 0,
+                "name": "Right Low Post",
+                "listOfShots": {},
+                "shots": 0
+            },
+            {
+                "madeShots": 0,
+                "name": "Left Low Post",
+                "listOfShots": {},
+                "shots": 0
+            },
+            {
+                "madeShots": 0,
+                "name": "Right Elbow",
+                "listOfShots": {},
+                "shots": 0
+            },
+            {
+                "madeShots": 0,
+                "name": "Left Elbow",
+                "listOfShots": {},
+                "shots": 0
+            },
+            {
+                "madeShots": 0,
+                "name": "Right Corner 3",
+                "listOfShots": {},
+                "shots": 0
+            },
+            {
+                "madeShots": 0,
+                "name": "Right Wing 3",
+                "listOfShots": {},
+                "shots": 0
+            },
+            {
+                "madeShots": 0,
+                "name": "Centre 3",
+                "listOfShots": {},
+                "shots": 0
+            },
+            {
+                "madeShots": 0,
+                "name": "Left Wing 3",
+                "listOfShots": {},
+                "shots": 0
+            },
+            {
+                "madeShots": 0,
+                "name": "Left Corner 3",
+                "listOfShots": {},
+                "shots": 0
+            }
+        ]
+    }
+]}
